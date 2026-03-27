@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-03-24">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="node_type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Volkswagen Group" label="Volkswagen Group">
+        <attvalues>
+          <attvalue for="0" value="parent" />
+        </attvalues>
+      </node>
+      <node id="BMW Group" label="BMW Group">
+        <attvalues>
+          <attvalue for="0" value="parent" />
+        </attvalues>
+      </node>
+      <node id="Toyota Motor Corporation" label="Toyota Motor Corporation">
+        <attvalues>
+          <attvalue for="0" value="parent" />
+        </attvalues>
+      </node>
+      <node id="Mercedes-Benz Group" label="Mercedes-Benz Group">
+        <attvalues>
+          <attvalue for="0" value="parent" />
+        </attvalues>
+      </node>
+      <node id="General Motors" label="General Motors">
+        <attvalues>
+          <attvalue for="0" value="parent" />
+        </attvalues>
+      </node>
+      <node id="Ford Motor Company" label="Ford Motor Company">
+        <attvalues>
+          <attvalue for="0" value="parent" />
+        </attvalues>
+      </node>
+      <node id="Stellantis" label="Stellantis">
+        <attvalues>
+          <attvalue for="0" value="parent" />
+        </attvalues>
+      </node>
+      <node id="Honda Motor Company" label="Honda Motor Company">
+        <attvalues>
+          <attvalue for="0" value="parent" />
+        </attvalues>
+      </node>
+      <node id="Nissan Motor Company" label="Nissan Motor Company">
+        <attvalues>
+          <attvalue for="0" value="parent" />
+        </attvalues>
+      </node>
+      <node id="Hyundai Motor Company" label="Hyundai Motor Company">
+        <attvalues>
+          <attvalue for="0" value="parent" />
+        </attvalues>
+      </node>
+      <node id="Volkswagen" label="Volkswagen">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Audi" label="Audi">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Porsche" label="Porsche">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Lamborghini" label="Lamborghini">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Bentley" label="Bentley">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Bugatti" label="Bugatti">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Skoda" label="Skoda">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="SEAT" label="SEAT">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="BMW" label="BMW">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Mini" label="Mini">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Rolls-Royce" label="Rolls-Royce">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Toyota" label="Toyota">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Lexus" label="Lexus">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Mercedes-Benz" label="Mercedes-Benz">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Smart" label="Smart">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Chevrolet" label="Chevrolet">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="GMC" label="GMC">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Cadillac" label="Cadillac">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Buick" label="Buick">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Ford" label="Ford">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Lincoln" label="Lincoln">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Jeep" label="Jeep">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Dodge" label="Dodge">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Chrysler" label="Chrysler">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Ram" label="Ram">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Alfa Romeo" label="Alfa Romeo">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Fiat" label="Fiat">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Maserati" label="Maserati">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Peugeot" label="Peugeot">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Citroën" label="Citroën">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Opel" label="Opel">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Vauxhall" label="Vauxhall">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Lancia" label="Lancia">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Honda" label="Honda">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Acura" label="Acura">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Nissan" label="Nissan">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Infiniti" label="Infiniti">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Hyundai" label="Hyundai">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Kia" label="Kia">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+      <node id="Genesis" label="Genesis">
+        <attvalues>
+          <attvalue for="0" value="brand" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Volkswagen Group" target="Volkswagen" id="0" />
+      <edge source="Volkswagen Group" target="Audi" id="1" />
+      <edge source="Volkswagen Group" target="Porsche" id="2" />
+      <edge source="Volkswagen Group" target="Lamborghini" id="3" />
+      <edge source="Volkswagen Group" target="Bentley" id="4" />
+      <edge source="Volkswagen Group" target="Bugatti" id="5" />
+      <edge source="Volkswagen Group" target="Skoda" id="6" />
+      <edge source="Volkswagen Group" target="SEAT" id="7" />
+      <edge source="BMW Group" target="BMW" id="8" />
+      <edge source="BMW Group" target="Mini" id="9" />
+      <edge source="BMW Group" target="Rolls-Royce" id="10" />
+      <edge source="Toyota Motor Corporation" target="Toyota" id="11" />
+      <edge source="Toyota Motor Corporation" target="Lexus" id="12" />
+      <edge source="Mercedes-Benz Group" target="Mercedes-Benz" id="13" />
+      <edge source="Mercedes-Benz Group" target="Smart" id="14" />
+      <edge source="General Motors" target="Chevrolet" id="15" />
+      <edge source="General Motors" target="GMC" id="16" />
+      <edge source="General Motors" target="Cadillac" id="17" />
+      <edge source="General Motors" target="Buick" id="18" />
+      <edge source="Ford Motor Company" target="Ford" id="19" />
+      <edge source="Ford Motor Company" target="Lincoln" id="20" />
+      <edge source="Stellantis" target="Jeep" id="21" />
+      <edge source="Stellantis" target="Dodge" id="22" />
+      <edge source="Stellantis" target="Chrysler" id="23" />
+      <edge source="Stellantis" target="Ram" id="24" />
+      <edge source="Stellantis" target="Alfa Romeo" id="25" />
+      <edge source="Stellantis" target="Fiat" id="26" />
+      <edge source="Stellantis" target="Maserati" id="27" />
+      <edge source="Stellantis" target="Peugeot" id="28" />
+      <edge source="Stellantis" target="Citroën" id="29" />
+      <edge source="Stellantis" target="Opel" id="30" />
+      <edge source="Stellantis" target="Vauxhall" id="31" />
+      <edge source="Stellantis" target="Lancia" id="32" />
+      <edge source="Honda Motor Company" target="Honda" id="33" />
+      <edge source="Honda Motor Company" target="Acura" id="34" />
+      <edge source="Nissan Motor Company" target="Nissan" id="35" />
+      <edge source="Nissan Motor Company" target="Infiniti" id="36" />
+      <edge source="Hyundai Motor Company" target="Hyundai" id="37" />
+      <edge source="Hyundai Motor Company" target="Kia" id="38" />
+      <edge source="Hyundai Motor Company" target="Genesis" id="39" />
+    </edges>
+  </graph>
+</gexf>
